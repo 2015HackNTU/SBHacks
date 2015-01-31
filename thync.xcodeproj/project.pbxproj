@@ -14,6 +14,7 @@
 		E9C6D7751A7D5EC8000DEA23 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9C6D7741A7D5EC8000DEA23 /* Images.xcassets */; };
 		E9C6D7781A7D5EC8000DEA23 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9C6D7761A7D5EC8000DEA23 /* LaunchScreen.xib */; };
 		E9C6D7841A7D5EC8000DEA23 /* thyncTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C6D7831A7D5EC8000DEA23 /* thyncTests.swift */; };
+		E9C6D78E1A7D66AD000DEA23 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C6D78D1A7D66AD000DEA23 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E9C6D77D1A7D5EC8000DEA23 /* thyncTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = thyncTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C6D7821A7D5EC8000DEA23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9C6D7831A7D5EC8000DEA23 /* thyncTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thyncTests.swift; sourceTree = "<group>"; };
+		E9C6D78D1A7D66AD000DEA23 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				E9C6D76D1A7D5EC8000DEA23 /* FirstViewController.swift */,
 				E9C6D76F1A7D5EC8000DEA23 /* SecondViewController.swift */,
 				E9C6D7711A7D5EC8000DEA23 /* Main.storyboard */,
+				E9C6D78D1A7D66AD000DEA23 /* ThirdViewController.swift */,
 				E9C6D7741A7D5EC8000DEA23 /* Images.xcassets */,
 				E9C6D7761A7D5EC8000DEA23 /* LaunchScreen.xib */,
 				E9C6D7691A7D5EC8000DEA23 /* Supporting Files */,
@@ -217,6 +220,7 @@
 			files = (
 				E9C6D7701A7D5EC8000DEA23 /* SecondViewController.swift in Sources */,
 				E9C6D76C1A7D5EC8000DEA23 /* AppDelegate.swift in Sources */,
+				E9C6D78E1A7D66AD000DEA23 /* ThirdViewController.swift in Sources */,
 				E9C6D76E1A7D5EC8000DEA23 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
